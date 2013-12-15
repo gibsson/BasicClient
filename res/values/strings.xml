@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Basic Client</string>
+  <string name="message">Set to %1$d Get %2$d</string>
+  <string name="button">Random</string>
+</resources>
