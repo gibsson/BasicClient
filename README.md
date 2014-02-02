@@ -18,7 +18,7 @@ Then the application will call the service `getValue()` method and display both 
 In order to have the service built-in your Android device or emulator, the packages must be explicitly requested as follows:
 
 PRODUCT_PACKAGES += \
-    BasicServiceClient
+    BasicClient
 
 This application can also be built within Eclipse as long as the Basic Service Add-On has been installed:
 https://github.com/gibsson/basic_sdk_addon
